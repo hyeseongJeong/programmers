@@ -1,4 +1,4 @@
-from redshift_connection import get_redshift_connection
+from week2.redshift_connection import get_redshift_connection
 
 
 if __name__ == "__main__":
